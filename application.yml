@@ -4,4 +4,4 @@ eureka:
       defaultZone: http://localhost:8761/eureka
 logging:
   file:
-    name: C:\Users\vojja\OneDrive\Desktop\ecomm-log
+    name: C:\Users\vojja\OneDrive\Desktop\app-logs\ecomm-log
