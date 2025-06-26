@@ -1,4 +1,7 @@
 eureka:
   client:
     service-url:
-      defaultZone: http://localhost:8761/eureka/
+      defaultZone: http://localhost:8761/eureka
+logging:
+  file:
+    name: C:\Users\vojja\OneDrive\Desktop\ecomm-log
